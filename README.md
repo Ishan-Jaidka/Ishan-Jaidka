@@ -2,11 +2,6 @@
 ----
 I'm a software engineer from Seattle, WA. 
 
-<img src="lucy.jpg" alt="Lucy on Mt. Catherine" height=180 />
-
-This is my dog, Lucy. She loves the sun.
-<br/>
-<br/>
 I have too many hobbies, including:
 - 🔧 Working on cars
 - 🎿 Skiing 
