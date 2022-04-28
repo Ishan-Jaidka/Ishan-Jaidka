@@ -2,6 +2,8 @@
 ----
 I'm a software engineer from Seattle, WA. 
 
+[<img src="linkedin.png" alt="LinkedIn" height=40 />](https://www.linkedin.com/in/ishanjaidka/)
+
 I have too many hobbies, including:
 - 🔧 Working on cars
 - 🎿 Skiing 
@@ -9,7 +11,7 @@ I have too many hobbies, including:
 - 🌄 Hiking 
 - 🚵 Mountain biking 
 
-[<img src="linkedin.png" alt="LinkedIn" height=40 />](https://www.linkedin.com/in/ishanjaidka/)
+
 
 
 
