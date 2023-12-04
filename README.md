@@ -1,18 +1,22 @@
 ### Hi there, I'm Ishan. 👋
 ----
-I'm a software engineer from Seattle, WA. 
 
-[<img src="linkedin.png" alt="LinkedIn" height=40 />](https://www.linkedin.com/in/ishanjaidka/)
+I'm a Seattle-based software engineer with a passion for crafting code and pushing the boundaries of technology.
 
-I have lots of hobbies, including:
-- 💻 Learning about new technologies
+When I'm not immersed in the world of software, you can find me pursuing a multitude of hobbies:
 - 🔧 Working on cars
 - 🎿 Skiing 
-- ☕ Coffee 
 - 🌄 Hiking 
-- 🚵 Mountain biking 
+- 🚵 Mountain biking
+- 🥟 Cooking
+- ☕ Roasting, brewing, and drinking coffee
+- 💻 Learning about new technologies
 
+Excited to collaborate, innovate, and code my way through new projects. Let's connect and build something amazing together!
 
+----
+
+[<img src="linkedin.png" alt="LinkedIn" height=40 />](https://www.linkedin.com/in/ishanjaidka/)
 
 
 
